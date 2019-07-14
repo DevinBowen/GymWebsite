@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GymWebsite/static/css/main.8ef63b32.chunk.css",
+    "main.js": "/GymWebsite/static/js/main.e18911b1.chunk.js",
+    "main.js.map": "/GymWebsite/static/js/main.e18911b1.chunk.js.map",
+    "runtime~main.js": "/GymWebsite/static/js/runtime~main.6c2a1c77.js",
+    "runtime~main.js.map": "/GymWebsite/static/js/runtime~main.6c2a1c77.js.map",
+    "static/js/2.3310f33a.chunk.js": "/GymWebsite/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/GymWebsite/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/GymWebsite/index.html",
+    "precache-manifest.76b23507e2a69b4650960383c8565fc4.js": "/GymWebsite/precache-manifest.76b23507e2a69b4650960383c8565fc4.js",
+    "service-worker.js": "/GymWebsite/service-worker.js",
+    "static/css/main.8ef63b32.chunk.css.map": "/GymWebsite/static/css/main.8ef63b32.chunk.css.map"
+  }
+}
