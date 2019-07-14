@@ -1,5 +1,7 @@
 import React from 'react';
 import './App.css';
+import routes from './routes';
+import {Link} from 'react-router-dom';
 
 function App() {
   return (
@@ -18,6 +20,12 @@ function App() {
       <footer>
         Developed and run by Devin Bowen.
       </footer>
+      <div>
+        <Link to='/' >Home</Link>
+        <Link to='/training' >Training</Link>
+        <Link to='/nutrition' >Nutrition</Link>
+      </div>
+      {routes}
     </div>
   );
 }
