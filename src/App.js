@@ -4,7 +4,20 @@ import './App.css';
 function App() {
   return (
     <div>
-      Hello World!
+      <header>
+        WORKOUT and NUTRITION
+      </header>
+
+
+      <body>
+        <div>Workouts</div>
+        <div>Nutrition</div>
+      </body>
+
+
+      <footer>
+        Developed and run by Devin Bowen.
+      </footer>
     </div>
   );
 }
