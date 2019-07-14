@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GymWebsite/static/css/main.e88b7dc2.chunk.css",
-    "main.js": "/GymWebsite/static/js/main.673a16df.chunk.js",
-    "main.js.map": "/GymWebsite/static/js/main.673a16df.chunk.js.map",
+    "main.css": "/GymWebsite/static/css/main.36497136.chunk.css",
+    "main.js": "/GymWebsite/static/js/main.47f9838f.chunk.js",
+    "main.js.map": "/GymWebsite/static/js/main.47f9838f.chunk.js.map",
     "runtime~main.js": "/GymWebsite/static/js/runtime~main.6c2a1c77.js",
     "runtime~main.js.map": "/GymWebsite/static/js/runtime~main.6c2a1c77.js.map",
-    "static/js/2.3310f33a.chunk.js": "/GymWebsite/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "/GymWebsite/static/js/2.3310f33a.chunk.js.map",
+    "static/js/2.26e8aa5f.chunk.js": "/GymWebsite/static/js/2.26e8aa5f.chunk.js",
+    "static/js/2.26e8aa5f.chunk.js.map": "/GymWebsite/static/js/2.26e8aa5f.chunk.js.map",
     "index.html": "/GymWebsite/index.html",
-    "precache-manifest.87c6a4f9649cf4dad10d90655a67d5a9.js": "/GymWebsite/precache-manifest.87c6a4f9649cf4dad10d90655a67d5a9.js",
+    "precache-manifest.af699fcc491b6eacd7478d735e7701a7.js": "/GymWebsite/precache-manifest.af699fcc491b6eacd7478d735e7701a7.js",
     "service-worker.js": "/GymWebsite/service-worker.js",
-    "static/css/main.e88b7dc2.chunk.css.map": "/GymWebsite/static/css/main.e88b7dc2.chunk.css.map"
+    "static/css/main.36497136.chunk.css.map": "/GymWebsite/static/css/main.36497136.chunk.css.map"
   }
 }
