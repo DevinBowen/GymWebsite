@@ -1,5 +1,6 @@
 import React from 'react';
-import './App.css';
+import './css/reset.css';
+import './css/App.css';
 import routes from './routes';
 import {Link} from 'react-router-dom';
 
@@ -7,25 +8,33 @@ function App() {
   return (
     <div>
       <header>
-        WORKOUT and NUTRITION
+        <div className='logo'>
+        <div>
+        Devin
+        </div>
+        <div>
+        Bowen
+        </div>
+        </div>
+        <a className="ham">
+        </a>
+        {/* <div className='nav' >
+        <Link to='/' style={{textDecoration: "none"}}>Home</Link>
+        <Link to='/training' style={{textDecoration: "none"}}>Training</Link>
+        <Link to='/nutrition' style={{textDecoration: "none"}}>Nutrition</Link>
+        </div> */}
       </header>
+      <div className="hbg"></div>
 
-
-      <body>
-        <div>Workouts</div>
-        <div>Nutrition</div>
-      </body>
+        <div className='main'>
+          {routes}
+        </div>
 
 
       <footer>
         Developed and run by Devin Bowen.
       </footer>
-      <div>
-        <Link to='/' >Home</Link>
-        <Link to='/training' >Training</Link>
-        <Link to='/nutrition' >Nutrition</Link>
-      </div>
-      {routes}
+      
     </div>
   );
 }

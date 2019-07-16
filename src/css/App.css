@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Ropa+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:900|Ropa+Sans&display=swap');
+/* font-family: 'Ropa Sans', sans-serif; */
+
+header {
+    width: 100%;
+    height: 6vh;
+    background-color: #000;
+}
+.logo {
+    /* color: #FF8D00; */
+    color: #ffffff;
+    font-family: 'Fira Sans', sans-serif;
+    padding: 2%;
+}
+.main {
+    font-family: 'Ropa Sans', sans-serif;
+}
+footer {
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media(max-width: 1440px) {
+
+}
+@media(max-width: 425px) {
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 5px;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.logo {
+    display: flex;
+    flex-direction: column;
+    margin: auto 0 auto 3%;
+}
+/* .ham img {
+    width: 5vh;
+    height: 5vh;
+    padding: 10%;
+    padding-right: 30%;
+} */
+.ham {
+    width: 6vh;
+    height: 6vh;
+    margin: auto 5% auto 0;
+    background: url("../img/ham.png");
+    background-size: cover;
+}
+.ham:active {
+    width: 6vh;
+    height: 6vh;
+    margin: auto 5% auto 0;
+    background: url("../img/ham_hov.png");
+    background-size: cover;
+}
+.nav {
+    width: 80%;
+    padding-bottom: 2%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.hbg {
+    width: 100%;
+    height: 20vh;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 50%), url("../img/barbell-building-challenge-1552252.jpg");
+}
+.main {
+    width: 100vw;
+    box-shadow: 0px -1px rgba(0, 0, 0, 0.322);
+}
+}
