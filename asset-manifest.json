@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/GymWebsite/static/css/main.c821453e.chunk.css",
-    "main.js": "/GymWebsite/static/js/main.2e475819.chunk.js",
-    "main.js.map": "/GymWebsite/static/js/main.2e475819.chunk.js.map",
+    "main.css": "/GymWebsite/static/css/main.7209fc59.chunk.css",
+    "main.js": "/GymWebsite/static/js/main.ab4e90cf.chunk.js",
+    "main.js.map": "/GymWebsite/static/js/main.ab4e90cf.chunk.js.map",
     "runtime~main.js": "/GymWebsite/static/js/runtime~main.6c2a1c77.js",
     "runtime~main.js.map": "/GymWebsite/static/js/runtime~main.6c2a1c77.js.map",
-    "static/js/2.c4482df0.chunk.js": "/GymWebsite/static/js/2.c4482df0.chunk.js",
-    "static/js/2.c4482df0.chunk.js.map": "/GymWebsite/static/js/2.c4482df0.chunk.js.map",
+    "static/js/2.e579cfce.chunk.js": "/GymWebsite/static/js/2.e579cfce.chunk.js",
+    "static/js/2.e579cfce.chunk.js.map": "/GymWebsite/static/js/2.e579cfce.chunk.js.map",
     "index.html": "/GymWebsite/index.html",
-    "precache-manifest.3454a88e382c42f8f05883a0bcc9722e.js": "/GymWebsite/precache-manifest.3454a88e382c42f8f05883a0bcc9722e.js",
+    "precache-manifest.27f09757ada9d62ade35253f6c7a0d12.js": "/GymWebsite/precache-manifest.27f09757ada9d62ade35253f6c7a0d12.js",
     "service-worker.js": "/GymWebsite/service-worker.js",
-    "static/css/main.c821453e.chunk.css.map": "/GymWebsite/static/css/main.c821453e.chunk.css.map"
+    "static/css/main.7209fc59.chunk.css.map": "/GymWebsite/static/css/main.7209fc59.chunk.css.map",
+    "static/media/App.css": "/GymWebsite/static/media/barbell-building-challenge-1552252.6ee53d36.jpg"
   }
 }
