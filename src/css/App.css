@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Ropa+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans:900|Ropa+Sans&display=swap');
 /* font-family: 'Ropa Sans', sans-serif; */
-
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,700&display=swap');
+/* font-family: 'Montserrat', sans-serif; */
 header {
     width: 100%;
     height: 6vh;
@@ -10,17 +10,35 @@ header {
 .logo {
     /* color: #FF8D00; */
     color: #ffffff;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
     padding: 2%;
 }
 .main {
     font-family: 'Ropa Sans', sans-serif;
 }
+/* .test {
+    background: #fff;
+    width: 100vw;
+    height: 30vh;
+}
+.test img {
+    width: 90vw;
+    height: 30vh;
+    border: solid;
+} */
 footer {
+    width: 100vw;
     padding: 2%;
     display: flex;
     flex-direction: column;
     align-items: center;
+    background: rgb(236, 236, 236);
+    position: fixed;
+    bottom: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: .75em;
 }
 
 @media(max-width: 1440px) {
@@ -66,6 +84,13 @@ header {
     display: flex;
     justify-content: space-between;
 
+}
+.lb {
+    background: #000;
+}
+.lb img {
+    width: 100vw;
+    height: 2vh;
 }
 .hbg {
     width: 100%;

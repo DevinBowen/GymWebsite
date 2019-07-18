@@ -8,5 +8,10 @@
 
 }
 @media(max-width: 425px) {
-
+.bio img {
+    border: 2px solid;
+}
+.about img {
+    border: 2px solid;
+}
 }

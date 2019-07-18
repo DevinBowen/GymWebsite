@@ -10,25 +10,23 @@ function App() {
       <header>
         <div className='logo'>
         <div>
-        Devin
+        DEVIN
         </div>
         <div>
-        Bowen
+        BOWEN
         </div>
         </div>
-        <a className="ham">
-        </a>
-        {/* <div className='nav' >
-        <Link to='/' style={{textDecoration: "none"}}>Home</Link>
-        <Link to='/training' style={{textDecoration: "none"}}>Training</Link>
-        <Link to='/nutrition' style={{textDecoration: "none"}}>Nutrition</Link>
-        </div> */}
+        <a className="ham"></a>
       </header>
+      <div className="lb">
+        <img src={require("./img/lb.png")} alt="lb" />
+      </div>
       <div className="hbg"></div>
 
-        <div className='main'>
+      <div className='main'>
           {routes}
-        </div>
+      </div>
+
 
 
       <footer>
