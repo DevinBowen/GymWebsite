@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b667318943e0c3f00c47cff383f08737",
+    "revision": "53008b186213a5a622379ae741b38953",
     "url": "/GymWebsite/index.html"
   },
   {
-    "revision": "6cc079f92a956fbce5f1",
-    "url": "/GymWebsite/static/css/main.85052792.chunk.css"
+    "revision": "7f08c32379efd5fc6900",
+    "url": "/GymWebsite/static/css/main.53993080.chunk.css"
   },
   {
-    "revision": "e7229ba79e7b98e66c98",
-    "url": "/GymWebsite/static/js/2.e579cfce.chunk.js"
+    "revision": "69e3b753d74875c83cca",
+    "url": "/GymWebsite/static/js/2.301ba14e.chunk.js"
   },
   {
-    "revision": "6cc079f92a956fbce5f1",
-    "url": "/GymWebsite/static/js/main.c2fa9f85.chunk.js"
+    "revision": "7f08c32379efd5fc6900",
+    "url": "/GymWebsite/static/js/main.34dc9805.chunk.js"
   },
   {
     "revision": "23996032d06cf9e4d45e",
